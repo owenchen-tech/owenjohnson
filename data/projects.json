@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "semiconductor-supply-chain",
+    "title": "Semiconductor Supply Chain",
+    "question": "How does a semiconductor go from an idea to a finished product?",
+    "description": "An analysis of the companies, materials, manufacturing processes, information flows, and commercial relationships behind the semiconductor industry.",
+    "status": "In progress",
+    "date": "",
+    "topics": ["Industry structure", "Manufacturing", "Commercial relationships"],
+    "visual": "supply-chain",
+    "images": [],
+    "sections": [
+      {"title": "Executive summary", "text": "This project is in development. It explores how semiconductor companies, suppliers, and customers connect across the value chain. Findings and business implications will be published as the research develops."},
+      {"title": "Background", "text": "Research scope: chip design, wafer fabrication, packaging and testing, electronics manufacturing, and the upstream suppliers supporting these activities."},
+      {"title": "Methodology", "text": "Planned approach: review primary company and industry sources, map the participants and handoffs, and distinguish physical product flows from information and commercial relationships."},
+      {"title": "How It Works", "text": "This section will explain each stage and the relationships between participants. Detailed explanations are pending research."},
+      {"title": "Supply Chain Map", "text": "The schematic below is an initial organizing framework, not a completed research finding. A semiconductor's actual path depends on its product and business model."},
+      {"title": "Analysis", "text": "Planned analysis: dependencies between stages, upstream inputs, information flows, and commercial relationships. Evidence and supporting diagrams will be added here."},
+      {"title": "Key Findings", "text": "Findings have not been published yet."},
+      {"title": "Business Implications", "text": "Implications will be drawn from the completed analysis."},
+      {"title": "Recommendations", "text": "Recommendations will be added only where supported by the research."},
+      {"title": "What I Learned", "text": "Learning reflections will be added as the project progresses."}
+    ],
+    "sources": []
+  },
+  {
+    "slug": "semiconductor-procurement-supply-planning",
+    "title": "Semiconductor Procurement & Supply Planning",
+    "question": "How should a semiconductor manufacturer choose suppliers and protect production from shortages?",
+    "description": "A practical sourcing and planning case study analyzing supplier cost, quality, lead time, capacity, delivery reliability, inventory, and risk.",
+    "status": "In progress",
+    "date": "",
+    "topics": ["Strategic sourcing", "Supply planning", "Supplier risk"],
+    "visual": "procurement",
+    "images": [],
+    "sections": [
+      {"title": "Executive summary", "text": "This case study is in development. It will examine sourcing and supply planning decisions using clearly labeled data and assumptions. No supplier rankings or completed results are available yet."},
+      {"title": "Business Problem", "text": "How can supplier selection and order allocation support production requirements while accounting for cost, quality, delivery, and shortage risk?"},
+      {"title": "Background", "text": "The scope will connect procurement decisions with demand, inventory, and production requirements."},
+      {"title": "Methodology", "text": "Planned approach: define demand requirements, document data sources and assumptions, compare suppliers, assess supply gaps, and evaluate allocation scenarios."},
+      {"title": "Supplier Data", "text": "Supplier data has not been added. Future tables will identify the source, units, reporting period, and whether values are observed or illustrative."},
+      {"title": "Supplier Scorecard", "text": "Planned criteria: cost, quality, lead time, capacity, and delivery reliability. Weights and scores will be documented before interpreting results."},
+      {"title": "Demand Requirements", "text": "Demand volumes and planning periods will be defined with their assumptions."},
+      {"title": "Inventory", "text": "Inventory balances and replenishment assumptions will be added here."},
+      {"title": "Lead Times", "text": "Supplier lead times and variability will be documented when data is available."},
+      {"title": "Supply Gaps", "text": "The analysis will compare available supply with demand by period."},
+      {"title": "Safety Stock", "text": "The calculation method and service-level assumptions will be explained before presenting any inventory recommendation."},
+      {"title": "Supplier Capacity", "text": "Capacity constraints and allocation assumptions will be documented here."},
+      {"title": "Order Allocation", "text": "Order allocation scenarios will be compared after supplier and demand data are defined."},
+      {"title": "Risk Analysis", "text": "Planned analysis: delivery variability, concentration risk, capacity constraints, and production exposure."},
+      {"title": "Findings & Business Implications", "text": "No findings have been published. Business implications will follow the analysis."},
+      {"title": "Recommendation", "text": "A recommendation will be added when supported by the data and documented tradeoffs."},
+      {"title": "What I Learned", "text": "Learning reflections will be added as the project progresses."}
+    ],
+    "sources": []
+  }
+]
